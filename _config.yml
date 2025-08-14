@@ -27,9 +27,9 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-aux_links:
-  Canvas:
-    - 'https://canvas.vt.edu'
+# aux_links:
+#   Canvas:
+#     - 'https://canvas.vt.edu'
   # Just the Class on GitHub:
   #   - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
