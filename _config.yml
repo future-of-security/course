@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Future of Security
-tagline: Integrative Solutions to Complex Security Systems
-description: A modern, highly customizable, responsive Jekyll template for course websites
+# tagline: Integrative Solutions to Complex Security Systems
+description: Integrative Solutions to Complex Security Systems
 # author: Kevin Lin
 baseurl: '/course' # the subpath of your site, e.g. /blog
 url: 'http://future-of-security.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
@@ -36,20 +36,11 @@ footer_content:
 
 # Collections for website data
 collections:
-  staffers:
   modules:
   schedules:
   announcements:
 # Default layouts for each collection type
 defaults:
-  - scope:
-      path: ''
-      type: staffers
-    values:
-      layout: staffer
-      height: 300
-      subpath: '/assets/images/'
-      width: 300
   - scope:
       path: ''
       type: modules
@@ -77,3 +68,7 @@ compress_html:
 liquid:
   error_mode: strict
   strict_filters: true
+
+nav_external_links:
+  - title: Canvas
+    url: https://canvas.vt.edu
