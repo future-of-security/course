@@ -17,15 +17,8 @@ description: >-
 
 ---
 
-Instructor on Record: Hailong Zhang
 
-*   Office Hours: [Book time](https://outlook.office.com/bookwithme/user/89667dd5bae94969b81f66b50c2bee5b@vt.edu/meetingtype/QIhyyYs8r0Kt0ffm0oWctg2?anonymous&ep=mlink) or by appointment
-
-Teaching Assistant: Dhruv Oza
-
-_\* Please send messages to [future-of-security-staff-g@vt.edu](mailto:future-of-security-staff-g@vt.edu?subject=[FoS]%20Purpose) if you want to communicate with us outside the classroom and office hours._
-
-### Course Description:
+## Course Description:
 
 Future of Security: Integrative Solutions to Complex Security Systems is the capstone course for the Integrated Security Pathways minor. It is a cross-disciplinary capstone course spanning multiple colleges and departments incorporating learning objectives from Pathways Learning Core Outcomes/Integrative Outcomes, Quantitative and Computational Thinking, Reasoning within the Social Sciences, and Intercultural and Global Awareness.
 
@@ -36,7 +29,7 @@ Having successfully completed this course, the student will be able to:
 *   Formulate and demonstrate execute communication strategies to facilitate effective decision-making across integrated security domains.
 *   Collaborate effectively in transdisciplinary teams to determine scope, assess options, and develop plans of action to address integrated security challenges in an ethical manner.
 
-### Grading Requirements - Total Possible PTS 250:
+## Grading Requirements - Total Possible PTS 250:
 
 1.  Written assignments - 80pts
     *   10 Blogposts Analyzing Assigned Readings 700-1200 Words Each
@@ -86,7 +79,7 @@ F below 60.0%
 
 _If you have questions about a grade, you must discuss it with me within one week of when the grade was posted on Canvas. Note that grades, including final grades, are not rounded._ 
 
-### Course Outline
+## Course Outline
 
 1.  Integrated analysis of complex security scenarios 20%
 2.  Advanced research topics in integrated security 20%
@@ -94,7 +87,7 @@ _If you have questions about a grade, you must discuss it with me within one wee
 4.  Transdisciplinary communication methods and strategies in an integrated security environment 20%
 5.  Teams work in a simulated security scenario 20%
 
-### Use of AI
+## Use of AI
 
 Artificial Intelligence (AI) can be useful for revising and enhancing your work. However, relying on AI to write for you removes the opportunity to engage in critical thinking and express your ideas in your own way. Additionally, AI can sometimes produce inaccuracies, such as generating fake content or repeating ideas in different phrasing, which may compromise the quality of your work. AI-generated content can also sometimes appear lack depth which may lead to written work that feels less original or insightful.
 
@@ -110,7 +103,7 @@ _We/I have used artificial intelligence tools as part of my writing process, but
 
 The teaching staff will monitor for potential plagiarism and the use of AI in all submitted work. Plagiarism detection tools will be employed. Additionally, any excessive or inappropriate use of AI that deviates from the guidelines will be flagged. It is important to remember that while AI may assist in refining your work, it should not replace the intellectual effort and critical thinking required in producing assignments. Violations of these guidelines could lead to academic penalties.
 
-### Honor Code
+## Honor Code
 
 he Undergraduate Honor Code pledge that each member of the university community agrees to abide by states:
 
@@ -122,20 +115,10 @@ For additional information about the Honor Code, please visit: [https://honorsys
 
 **Honor Code Pledge for Assignments**: The Virginia Tech honor code pledge for assignments is as follows:
 
-_“I have neither given nor received unauthorized assistance on this assignment.”_
+_"I have neither given nor received unauthorized assistance on this assignment."_
 
 The pledge is to be written out on all graded assignments at the university and signed by the student. The honor pledge represents both an expression of the student’s support of the honor code and a commitment to uphold the academic standards at Virginia Tech.
 
 All Undergraduate course syllabi shall contain a section that states and refers the student to the Honor Code Procedures on the University website. The minimum required statement is listed below. Additional information about the expectation of academic integrity in a particular course may be appropriate.
 
 If in doubt as to whether you might violate the honor code, send me a note, stop by my office, or seek me after or before class to discuss. Drafts of papers go a long way towards preventing any potential violations.
-
-Information included on behalf of the Office of Undergraduate Academic Integrity
-
-**Academic Integrity Success Module:**
-
-A free module through Canvas to educate students on Academic Integrity at Virginia Tech. Many of our faculty will often require students to take this module as a course requirement, or will offer it to students for extra credit. It is a part of the Canvas badging program, so verification that the student has completed it is relatively easy - my office can also verify completion as well. This module provides information on Academic Integrity in various formats directly from the office, provides examples, and does verify that the student did read the material. This module takes no more than 30 minutes to complete. Here is a link to the module: [https://canvas.vt.edu/enroll/CE7YK9](/enroll/CE7YK9)
-
-**Understanding the Code:**
-
-This module is put together by the Undergraduate Honor Council delegates and addresses different Academic Integrity scenarios and answers frequently asked questions. Completion of UTC can also be verified through Canvas. UTC also takes students no longer than 30 minutes to complete. Many of our faculty will often require students to take this module as a course requirement, or will offer it to students for extra credit. Here is a link to Understanding the Code: [https://canvas.vt.edu/enroll/GALMPM](/enroll/GALMPM)
