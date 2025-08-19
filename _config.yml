@@ -70,5 +70,7 @@ liquid:
   strict_filters: true
 
 nav_external_links:
+  - title: Syllabus
+    url: https://docs.google.com/document/d/10YyjY5dPWE8AdyHUkcNERCitesb4teVjtpvK_yCduJU/edit?usp=sharing
   - title: Canvas
     url: https://canvas.vt.edu

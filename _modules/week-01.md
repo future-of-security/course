@@ -1,23 +1,13 @@
 ---
-title: Introduction to Java
+title: Remembering Security
 ---
 
-Sep 28
-: [Java & Git](#)
+Aug 26
+: Introduction
+: [**Slides**{: .label .label-purple }](https://docs.google.com/presentation/d/1SDYauKG6RrayUEXU5tTYT8PRW3sL2Eh8YI_g1ljpG0I/edit?usp=sharing)
   : [1.1](#)
 
-Sep 29
+Aug 28
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
