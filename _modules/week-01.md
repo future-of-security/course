@@ -4,9 +4,7 @@ title: Week 1
 
 Aug 26
 : Introduction
-  : Project 1
 : [**Slides**{: .label .label-purple }](https://docs.google.com/presentation/d/1SDYauKG6RrayUEXU5tTYT8PRW3sL2Eh8YI_g1ljpG0I/edit?usp=sharing)
-  : Team Building
 
 Aug 28
 : Remembering Security
