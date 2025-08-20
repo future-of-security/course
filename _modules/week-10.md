@@ -3,7 +3,7 @@ title: Week 10
 ---
 
 Oct 28
-: TBA
+: Simulation Day 1
 
 Oct 30
-: TBA
+: Simulation Day 2

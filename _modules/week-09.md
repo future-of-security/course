@@ -3,7 +3,7 @@ title: Week 9
 ---
 
 Oct 21
-: TBA
+: Discussion led by Teton
 
 Oct 23
-: TBA
+: Discussion led by Yosemite

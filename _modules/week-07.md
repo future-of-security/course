@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Oct 7
-: TBA
+: Discussion led by Bryce
 
 Oct 9
-: TBA
+: Discussion led by Denali

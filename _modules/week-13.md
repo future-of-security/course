@@ -3,7 +3,7 @@ title: Week 13
 ---
 
 Nov 18
-: TBA
+: Project Development
 
 Nov 20
-: TBA
+: Project Development

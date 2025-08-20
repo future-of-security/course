@@ -3,7 +3,7 @@ title: Week 8
 ---
 
 Oct 14
-: TBA
+: Discussion led by Glacier
 
 Oct 16
-: TBA
+: Discussion led by Olympic
