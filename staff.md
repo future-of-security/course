@@ -4,7 +4,7 @@ title: Staff
 nav_order: 3
 ---
 
-# Staff
+# Teaching Staff
 
 Instructor on Record: [Hailong Zhang](https://pampl.in/hlz)
 
