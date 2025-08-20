@@ -3,7 +3,7 @@ title: Week 9
 ---
 
 Oct 21
-: Discussion led by Teton
+: Discussion led by Team Teton
 
 Oct 23
-: Discussion led by Yosemite
+: Discussion led by Team Yosemite

@@ -10,7 +10,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 
 ## CRN 82022 (11AM)
 
-| Group    | Date | Discussion Topic |
+| Team    | Date | Discussion Topic |
 |----------|------|------------------|
 | Arches   |      |                  |
 | Bryce    |      |                  |
@@ -23,7 +23,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 
 ## CRN 92232 (2PM)
 
-| Group    | Date | Discussion Topic |
+| Team    | Date | Discussion Topic |
 |----------|------|------------------|
 | Arches   |      |                  |
 | Bryce    |      |                  |

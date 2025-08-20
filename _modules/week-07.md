@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Oct 7
-: Discussion led by Bryce
+: Discussion led by Team Bryce
 
 Oct 9
-: Discussion led by Denali
+: Discussion led by Team Denali
