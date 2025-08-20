@@ -8,4 +8,4 @@ Sep 2
 
 Sep 4
 : Political Security
-: [**Slides**{: .label .label-purple }](#)[**Reading**{: .label .label-blue }](https://drive.google.com/file/d/1a5G1RA_Nz8UekY4FL9lpQ_15gGb4Gn0_/view?usp=sharing)[**Blog (11AM)**{: .label .label-red }](https://canvas.vt.edu/courses/214894/assignments/2484440)[**Blog (2PM)**{: .label .label-red }](https://canvas.vt.edu/courses/214890/assignments/2484426)
+: [**Slides**{: .label .label-purple }](https://docs.google.com/presentation/d/1ph1AB-q7932m6RmL_z2rX_sIJhsZVoGvjgw19RwMqfk/edit?usp=sharing)[**Reading**{: .label .label-blue }](https://drive.google.com/file/d/1a5G1RA_Nz8UekY4FL9lpQ_15gGb4Gn0_/view?usp=sharing)[**Blog (11AM)**{: .label .label-red }](https://canvas.vt.edu/courses/214894/assignments/2484440)[**Blog (2PM)**{: .label .label-red }](https://canvas.vt.edu/courses/214890/assignments/2484426)
