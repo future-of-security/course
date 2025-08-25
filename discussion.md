@@ -8,7 +8,7 @@ nav_order: 4
 
 Please sign up on [Canvas](https://canvas.vt.edu/).
 
-## CRN 82022 (11AM)
+## 11 AM (CLMS 370)
 
 | Team     | Topic |
 |----------|-------|
@@ -21,7 +21,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 | Yosemite |       |
 | Zion     |       |
 
-## CRN 92232 (2PM)
+## 2 PM (PAM 2001)
 
 | Team     | Topic |
 |----------|-------|
