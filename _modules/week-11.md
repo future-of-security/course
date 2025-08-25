@@ -3,7 +3,7 @@ title: Week 11
 ---
 
 Nov 4
-: Discussion led by Team Zion
+: Discussion led by Team Yosemite
 
 Nov 6
-: TBA
+: Discussion led by Team Zion
