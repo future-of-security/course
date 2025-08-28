@@ -14,6 +14,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 |----------|-------|
 | Arches   |       |
 | Bryce    |       |
+| Cuyahoga |       |
 | Denali   |       |
 | Glacier  |       |
 | Olympic  |       |

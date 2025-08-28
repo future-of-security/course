@@ -8,4 +8,4 @@ Oct 21
 
 
 Oct 23
-: Discussion led by Team Olympic
+: Student-led Discussoin

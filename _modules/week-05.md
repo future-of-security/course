@@ -8,4 +8,4 @@ Sep 23
 
 
 Sep 25
-: Discussion led by Team Arches
+: Student-led Discussoin
