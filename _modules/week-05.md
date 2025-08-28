@@ -8,4 +8,4 @@ Sep 23
 
 
 Sep 25
-: TBA
+: Discussion led by Team Arches
