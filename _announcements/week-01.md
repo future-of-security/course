@@ -1,5 +1,5 @@
 ---
-title: Welcome!
+title: Discussion Group Sign-Up & Peer-Evaluation Update
 week: 1
 date: 2025-08-29
 ---
