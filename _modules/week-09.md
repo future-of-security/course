@@ -8,4 +8,5 @@ Oct 21
 
 
 Oct 23
-: Student-led Discussoin
+: Guest Lecture: [Dr. Xiaojian Jin](https://www.vtti.vt.edu/staffdir/bio.php?&pn=07911)
+<!-- : [**Reading**{: .label .label-blue }]() -->
