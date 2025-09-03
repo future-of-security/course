@@ -10,27 +10,27 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 
 ## 11 AM (CLMS 370)
 
-| Team     | Topic |
-|----------|-------|
-| Arches   |       |
-| Bryce    |       |
-| Cuyahoga |       |
-| Denali   |       |
-| Glacier  |       |
-| Olympic  |       |
-| Teton    |       |
-| Yosemite |       |
-| Zion     |       |
+| Team     | Topic | Date |
+|----------|-------|------|
+| Arches   |       |      |
+| Bryce    |       |      |
+| Cuyahoga |       |      |
+| Denali   |       |      |
+| Glacier  |       |      |
+| Olympic  |       |      |
+| Teton    |       |      |
+| Yosemite |       |      |
+| Zion     |       |      |
 
 ## 2 PM (PAM 2001)
 
-| Team     | Topic |
-|----------|-------|
-| Arches   |       |
-| Bryce    |       |
-| Denali   |       |
-| Glacier  |       |
-| Olympic  |       |
-| Teton    |       |
-| Yosemite |       |
-| Zion     |       |
+| Team     | Topic | Date |
+|----------|-------|------|
+| Arches   |       |      |
+| Bryce    |       |      |
+| Denali   |       |      |
+| Glacier  |       |      |
+| Olympic  |       |      |
+| Teton    |       |      |
+| Yosemite |       |      |
+| Zion     |       |      |
