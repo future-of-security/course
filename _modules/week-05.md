@@ -3,8 +3,8 @@ title: Week 5
 ---
 
 Sep 23
-: Student-led Discussoin
+: Student-led Discussion
 
 
 Sep 25
-: Student-led Discussoin
+: Student-led Discussion
