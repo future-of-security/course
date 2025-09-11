@@ -12,7 +12,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 
 | Team     | Topic | Date |
 |----------|-------|------|
-| Arches   |       |      |
+| Arches   |       | 9/25 |
 | Bryce    |       |      |
 | Cuyahoga |       |      |
 | Denali   |       |      |
@@ -26,7 +26,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 
 | Team     | Topic | Date |
 |----------|-------|------|
-| Arches   |       |      |
+| Arches   |       | 9/25 |
 | Bryce    |       |      |
 | Denali   |       |      |
 | Glacier  |       |      |
