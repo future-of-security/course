@@ -12,7 +12,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 
 | Team     | Topic | Date |
 |----------|-------|------|
-| Arches   |       | 9/25 |
+| Arches   | 2021 Colonial Pipeline ransomware attack | 9/25 |
 | Bryce    |       |      |
 | Cuyahoga |       |      |
 | Denali   |       |      |
