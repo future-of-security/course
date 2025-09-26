@@ -13,24 +13,24 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 | Team     | Topic | Date |
 |----------|-------|------|
 | Arches   | 2021 Colonial Pipeline Ransomware Attack | 9/25 |
-| Bryce    |       |      |
-| Cuyahoga | China's Threat to US Cybersecurity |      |
-| Denali   |       |      |
-| Glacier  |       |      |
-| Olympic  |       |      |
-| Teton    |       |      |
-| Yosemite |       |      |
-| Zion     |       |      |
+| Bryce    | 2013 Target POS Breach | 9/30 |
+| Cuyahoga | China's Threat to US Cybersecurity | 10/7 |
+| Denali   |       |  10/16    |
+| Glacier  |       |  11/4    |
+| Olympic  |       |  11/6    |
+| Teton    |       |  11/11    |
+| Yosemite |       |  11/13    |
+| Zion     |       |  11/18    |
 
 ## 2 PM (PAM 2001)
 
 | Team     | Topic | Date |
 |----------|-------|------|
 | Arches   | Healthcare Data Breaches | 9/25 |
-| Bryce    |       |      |
-| Denali   |       |      |
-| Glacier  |       |      |
-| Olympic  |       |      |
-| Teton    |       |      |
-| Yosemite |       |      |
-| Zion     |       |      |
+| Bryce    |       |  9/30    |
+| Denali   |       |  10/9    |
+| Glacier  |       |  10/16    |
+| Olympic  |       |  11/4    |
+| Teton    |       |  11/6    |
+| Yosemite |       |  11/11    |
+| Zion     |       |  11/13    |

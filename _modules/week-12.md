@@ -3,7 +3,7 @@ title: Week 12
 ---
 
 Nov 11
-: Project Development
+: Student-led Discussion
 
 Nov 13
-: Project Development
+: Student-led Discussion
