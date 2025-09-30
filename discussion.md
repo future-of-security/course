@@ -27,10 +27,10 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 | Team     | Topic | Date |
 |----------|-------|------|
 | Arches   | Healthcare Data Breaches | 9/25 |
-| Bryce    |       |  9/30    |
 | Denali   |       |  10/9    |
 | Glacier  |       |  10/16    |
 | Olympic  |       |  11/4    |
 | Teton    |       |  11/6    |
 | Yosemite |       |  11/11    |
 | Zion     |       |  11/13    |
+| Bryce    | AI Prompt Injection |  11/18    |
