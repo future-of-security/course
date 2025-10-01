@@ -19,7 +19,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 | Glacier  |       |  11/4    |
 | Olympic  |       |  11/6    |
 | Teton    |       |  11/11    |
-| Yosemite |       |  11/13    |
+| Yosemite | Climate change and rising sea levels as critical threats to US military installations |  11/13    |
 | Zion     |       |  11/18    |
 
 ## 2 PM (PAM 2001)
