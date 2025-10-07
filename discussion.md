@@ -27,7 +27,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 | Team     | Topic | Date |
 |----------|-------|------|
 | Arches   | Healthcare Data Breaches | 9/25 |
-| Denali   |       |  10/9    |
+| Denali   | Government Shutdown: Human, Natural, Political Security Affected |  10/9    |
 | Glacier  |       |  10/16    |
 | Olympic  |       |  11/4    |
 | Teton    |       |  11/6    |
