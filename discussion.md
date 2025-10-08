@@ -28,9 +28,9 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 |----------|-------|------|
 | Arches   | Healthcare Data Breaches | 9/25 |
 | Denali   | Government Shutdown: Human, Natural, Political Security Affected |  10/9    |
-| Glacier  |       |  10/16    |
+| Bryce    | AI Prompt Injection |  10/16    |
 | Olympic  |       |  11/4    |
 | Teton    |       |  11/6    |
 | Yosemite |       |  11/11    |
 | Zion     |       |  11/13    |
-| Bryce    | AI Prompt Injection |  11/18    |
+| Glacier  |  |  11/18    |
