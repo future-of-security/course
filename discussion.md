@@ -15,7 +15,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 | Arches   | 2021 Colonial Pipeline Ransomware Attack | 9/25 |
 | Bryce    | 2013 Target POS Breach | 9/30 |
 | Cuyahoga | China's Threat to US Cybersecurity | 10/7 |
-| Denali   |       |  10/16    |
+| Denali   | Russia's 2022 Cyberattacks against Ukraine |  10/16    |
 | Glacier  |       |  11/4    |
 | Olympic  |       |  11/6    |
 | Teton    |       |  11/11    |
