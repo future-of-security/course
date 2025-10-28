@@ -4,15 +4,16 @@ title: Simulation
 nav_order: 5
 ---
 
-**Power Play: Disinformation During a Blackout**
+Power Play: Disinformation During a Blackout
+============================================
 
-Washington, D.C. Critical Infrastructure Simulation
+***Washington, D.C. Critical Infrastructure Simulation***
 
-# Background
+---
 
-A humid weekday evening in Washington, D.C., 7:45 p.m.
+<!-- ## Background -->
 
-Residents begin noticing flickering lights across several neighborhoods. Potomac Power's network engineers detect unusual polling activity on multiple substations through a VPN account belonging to an employee who left work hours ago. Within minutes, one substation goes offline.
+A humid weekday evening in Washington, D.C., 7:45 p.m., residents begin noticing flickering lights across several neighborhoods. Potomac Power's network engineers detect unusual polling activity on multiple substations through a VPN account belonging to an employee who left work hours ago. Within minutes, one substation goes offline.
 
 As the utility scrambles to isolate the affected node, reports of minor outages spread. Then, a Telegram post surfaces with a shaky nighttime video showing what appears to be an explosion at a D.C. substation - the caption reads: "#DCBlackout - they're hiding the truth." The video quickly circulates across social media, amplified by thousands of retweets and reposts.
 
@@ -20,15 +21,13 @@ By 8:10 p.m., emergency call centers are overwhelmed. Hospitals switch to genera
 
 **Key Challenge:** City leadership must **balance verification, public reassurance, and operational response** amid a flood of disinformation and partial system failures.
 
-# Simulation Overview
+## Simulation Overview
 
 This simulation models a multi-agency crisis response to a cyber-physical disinformation attack on Washington, D.C.'s power grid.
-
 Teams represent key agencies and organizations responsible for public safety, utilities, health care, and transportation.
-
 Your mission is to protect citizens, stabilize operations, and maintain public trust-all while making tough decisions under pressure and working with limited budgets.
 
-# Team Roles
+## Team Roles
 
 | **Team** | **Sector** | **Primary Responsibilities** |
 | --- | --- | --- |
@@ -38,7 +37,7 @@ Your mission is to protect citizens, stabilize operations, and maintain public t
 | **MedStar Hospital Network** | Healthcare | Maintain hospital operations, generator continuity, and patient communication. |
 | **WMATA Transit Authority** | Transportation | Maintain transport continuity, passenger safety, and metro signaling. |
 
-# Budget Overview
+## Budget Overview
 
 Every team begins with a set operating budget and receives a small replenishment at the start of each round.
 
@@ -58,11 +57,11 @@ Budgets can also be transferred between teams:
 | **MedStar Hospital Network** | \$1,200,000 | +\$300,000 | Requests support via HSEMA |
 | **WMATA Transit Authority** | \$900,000 | +\$250,000 | Requests support via HSEMA |
 
-# Action Cost Menu
+## Action Cost Menu
 
 This menu lists possible actions your team can take. Each costs a portion of your budget and produces a specific benefit.
 
-You may also propose creative, realistic actions beyond this list - just include a reasonable estimated cost in your memo.
+***You may also propose creative, realistic actions beyond this list -- just include a reasonable estimated cost in your memo.***
 
 | **Action** | **Cost** | **Benefit** |
 | --- | --- | --- |
@@ -77,15 +76,60 @@ You may also propose creative, realistic actions beyond this list - just include
 | Hospital surge staff (12h) | \$90,000 | Reduces ER load |
 | Transit safety sweep | \$60,000 | Prevents passenger incidents |
 
-# Submission Format & Guidelines
+## Submission Format & Guidelines
 
 Each team must submit a short decision memo on canvas, under the assignment tab following this structure.
 
 Please label clearly with your team name and round number.
 
-<div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong><em>Memo</em></strong></p><p><strong>Team Name:</strong><br><strong>Round #:</strong></p><p><strong>Primary Objective for This Round:</strong></p><p><strong>Summary of Situation (3-5 sentences):</strong><br>Briefly describe your team's understanding of the current situation - what's happening and what your top concern is.</p><p><strong>Actions and Budget Decisions:</strong><br>List all actions your team will take this round, including&nbsp;<strong>costs</strong>&nbsp;and&nbsp;<strong>expected benefits</strong>.<br>If you are requesting or transferring funds, specify the&nbsp;<strong>amount</strong>&nbsp;and&nbsp;<strong>source/destination</strong>.<br>Example:</p><ul><li>Activate EOC - $150,000 (improves coordination)</li><li>Citywide SMS alert - $60,000 (counter rumors)</li><li>Request $250,000 transfer from HSEMA for generator setup</li></ul><p><strong>Transfers or Requests Table:</strong></p><table><tbody><tr><th><p>From</p></th><th><p>To</p></th><th><p>Amount</p></th><th><p>Purpose</p></th></tr><tr><th></th><th></th><th></th><th></th></tr><tr><th></th><th></th><th></th><th></th></tr></tbody></table><p><strong>Coordination / Communication Plans:</strong><br>List any other teams you are working with and how you plan to communicate or coordinate with them.<br>Example:</p><ul><li>"Coordinate with Mayor's Office for unified messaging."</li><li>"Share grid telemetry data with HSEMA."</li></ul><p><strong>Reasoning and Expected Impact:</strong><br>Explain why your team chose these actions and what you expect to achieve by the next round.<br>Keep it concise but clear and do focus on outcomes and risk management.</p><p><strong>Remaining Budget:</strong><br>Estimate your remaining funds after these actions.</p></th></tr></tbody></table></div>
+```
+Team Name:
 
-# **General Instructions & Guidelines**
+Round #:
+
+Primary Objective for This Round:
+
+Summary of Situation (3-5 sentences):
+
+    Briefly describe your team's understanding of the current situation - what's happening and what your top concern is.
+
+Actions and Budget Decisions:
+
+    List all actions your team will take this round, including **costs** and **expected benefits**. If you are requesting or transferring funds, specify the **amount** and **source/destination**.
+
+    Example:
+    * Activate EOC - $150,000 (improves coordination)
+    * Citywide SMS alert - $60,000 (counter rumors)
+    * Request $250,000 transfer from HSEMA for generator setup
+
+Transfers or Requests Table:
+
+  From:
+  To:
+  Amount:
+  Purpose:
+
+Coordination / Communication Plans:
+
+    List any other teams you are working with and how you plan to communicate or coordinate with them.
+
+    Example:
+    * "Coordinate with Mayor's Office for unified messaging."
+    * "Share grid telemetry data with HSEMA."
+
+Reasoning and Expected Impact:
+
+    Explain why your team chose these actions and what you expect to achieve by the next round. Keep it concise but clear and do focus on outcomes and risk management.
+
+Remaining Budget:
+
+    Estimate your remaining funds after these actions.
+
+```
+
+<!-- <div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong><em>Memo</em></strong></p><p><strong>Team Name:</strong><br><strong>Round #:</strong></p><p><strong>Primary Objective for This Round:</strong></p><p><strong>Summary of Situation (3-5 sentences):</strong><br>Briefly describe your team's understanding of the current situation - what's happening and what your top concern is.</p><p><strong>Actions and Budget Decisions:</strong><br>List all actions your team will take this round, including&nbsp;<strong>costs</strong>&nbsp;and&nbsp;<strong>expected benefits</strong>.<br>If you are requesting or transferring funds, specify the&nbsp;<strong>amount</strong>&nbsp;and&nbsp;<strong>source/destination</strong>.<br>Example:</p><ul><li>Activate EOC - $150,000 (improves coordination)</li><li>Citywide SMS alert - $60,000 (counter rumors)</li><li>Request $250,000 transfer from HSEMA for generator setup</li></ul><p><strong>Transfers or Requests Table:</strong></p><table><tbody><tr><th><p>From</p></th><th><p>To</p></th><th><p>Amount</p></th><th><p>Purpose</p></th></tr><tr><th></th><th></th><th></th><th></th></tr><tr><th></th><th></th><th></th><th></th></tr></tbody></table><p><strong>Coordination / Communication Plans:</strong><br>List any other teams you are working with and how you plan to communicate or coordinate with them.<br>Example:</p><ul><li>"Coordinate with Mayor's Office for unified messaging."</li><li>"Share grid telemetry data with HSEMA."</li></ul><p><strong>Reasoning and Expected Impact:</strong><br>Explain why your team chose these actions and what you expect to achieve by the next round.<br>Keep it concise but clear and do focus on outcomes and risk management.</p><p><strong>Remaining Budget:</strong><br>Estimate your remaining funds after these actions.</p></th></tr></tbody></table></div> -->
+
+## General Instructions & Guidelines
 
 **Purpose:** This simulation places you in the middle of a **city-wide emergency** triggered by a cyber-physical incident and amplified by misinformation.  
 Your goal is to:
