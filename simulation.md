@@ -131,7 +131,9 @@ Remaining Budget:
 
 ## General Instructions & Guidelines
 
-**Purpose:** This simulation places you in the middle of a **city-wide emergency** triggered by a cyber-physical incident and amplified by misinformation.  
+### Purpose
+
+This simulation places you in the middle of a **city-wide emergency** triggered by a cyber-physical incident and amplified by misinformation.  
 Your goal is to:
 
 - Protect public safety and critical services.
@@ -139,7 +141,7 @@ Your goal is to:
 - Communicate clearly and responsibly under pressure.
 - Manage limited budgets and make trade-offs in real time.
 
-**Rounds & Timing:**
+### Rounds & Timing
 
 - The exercise runs for 4 rounds, each lasting about 15 minutes.
 - At the start of every round, you will receive:
@@ -148,19 +150,19 @@ Your goal is to:
   - From Round 2 onward, a brief Secret Intel Note known only to your team.
 - After discussion, submit your team decision memo using the required format.
 
-**Teamwork & Roles:**
+### Teamwork & Roles
 
 - Work within your assigned team role (HSEMA, Potomac Power, Mayor's Office/PIO, MedStar, or WMATA).
 - Choose a spokesperson to write and submit the team's memo on canvas.
 - All members should contribute ideas, data points, and reasoning.
 
-**Communication Between Teams**
+### Communication Between Teams
 
 - You may talk, negotiate, or coordinate with other teams at any time during a round.
 - Funding requests or information sharing must be recorded in your memo.
 - Be strategic: collaboration builds resilience, but delays or mixed messages can worsen the crisis.
 
-**Budget Discipline**
+### Budget Discipline
 
 - Each team begins with a defined budget and receives a small **replenishment at the start of each round**.
 - Spending decisions must be realistic and justified.
@@ -169,12 +171,12 @@ Your goal is to:
 - Actions costing **\> \$500 k** may take until the next round to show results.
 - Track your remaining funds each round.
 
-**Submissions**
+### Submissions
 
 - Use the official **Team Submission Format** (one memo per round).
 - Submit before the timer ends; late submissions may limit your impact in the next scenario.
 
-**Evaluation & Reflection**
+### Evaluation & Reflection
 
 Your performance will be assessed on:
 
