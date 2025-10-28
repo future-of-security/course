@@ -16,7 +16,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 | Bryce    | 2013 Target POS Breach | 9/30 |
 | Cuyahoga | China's Threat to US Cybersecurity | 10/7 |
 | Denali   | Russia's 2022 Cyberattacks against Ukraine |  10/16    |
-| Glacier  |       |  11/4    |
+| Glacier  | 2017 WannaCry Ransomware Attack |  11/4    |
 | Olympic  |       |  11/6    |
 | Teton    |       |  11/11    |
 | Yosemite | Climate change and rising sea levels as critical threats to US military installations |  11/13    |
