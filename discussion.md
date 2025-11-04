@@ -30,7 +30,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 | Denali   | Government Shutdown: Human, Natural, Political Security Affected |  10/9    |
 | Bryce    | AI Prompt Injection |  10/16    |
 | Olympic  | Adversarial Deepfake and Voice Clone Attacks |  11/4    |
-| Teton    |       |  11/6    |
+| Teton    | Text-to-Video System Security Implications |  11/6    |
 | Yosemite |       |  11/11    |
 | Zion     |       |  11/13    |
 | Glacier  |  |  11/18    |
