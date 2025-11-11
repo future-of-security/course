@@ -6,4 +6,4 @@ Nov 18
 : Student-led Discussion
 
 Nov 20
-: Project Development
+: Project Development (No In-Person Meeting)
