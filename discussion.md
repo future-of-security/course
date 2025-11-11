@@ -18,7 +18,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 | Denali   | Russia's 2022 Cyberattacks against Ukraine |  10/16    |
 | Glacier  | 2017 WannaCry Ransomware Attack |  11/4    |
 | Olympic  | 2025 AWS Outage |  11/6    |
-| Teton    |       |  11/11    |
+| Teton    | Security of the Space Domain |  11/11    |
 | Yosemite | Climate change and rising sea levels as critical threats to US military installations |  11/13    |
 | Zion     |       |  11/18    |
 
@@ -31,6 +31,6 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 | Bryce    | AI Prompt Injection |  10/16    |
 | Olympic  | Adversarial Deepfake and Voice Clone Attacks |  11/4    |
 | Teton    | Text-to-Video System Security Implications |  11/6    |
-| Yosemite |       |  11/11    |
+| Yosemite | Disinformation and its Impact On Political Security |  11/11    |
 | Zion     | 2025 Hurricane Melissa|  11/13    |
 | Glacier  | Future of Password Security |  11/18    |
