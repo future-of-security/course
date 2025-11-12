@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Security Planner
+nav_exclude: true
 nav_order: 3
 ---
 

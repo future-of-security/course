@@ -32,5 +32,5 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 | Olympic  | Adversarial Deepfake and Voice Clone Attacks |  11/4    |
 | Teton    | Text-to-Video System Security Implications |  11/6    |
 | Yosemite | Disinformation and its Impact On Political Security |  11/11    |
-| Zion     | 2025 Hurricane Melissa|  11/13    |
+| Zion     | 2025 Hurricane Melissa |  11/13    |
 | Glacier  | Future of Password Security |  11/18    |
