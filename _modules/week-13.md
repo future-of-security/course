@@ -7,3 +7,4 @@ Nov 18
 
 Nov 20
 : Project Development (No In-Person Meeting)
+: [**Zoom**{: .label .label-purple }](https://virginiatech.zoom.us/s/5518681625)
