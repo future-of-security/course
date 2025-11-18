@@ -20,7 +20,7 @@ Please sign up on [Canvas](https://canvas.vt.edu/).
 | Olympic  | 2025 AWS Outage |  11/6    |
 | Teton    | Security of the Space Domain |  11/11    |
 | Yosemite | Climate change and rising sea levels as critical threats to US military installations |  11/13    |
-| Zion     |       |  11/18    |
+| Zion     | 2011 Tohuku Earthquake and Tsunami |  11/18    |
 
 ## 2 PM (PAM 2001)
 
